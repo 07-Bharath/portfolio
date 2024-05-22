@@ -8,8 +8,6 @@
 
 <br/>
 
-
-
 <h3 align="center">
     🔹
     <a href="https://github.com/07-Bharath">Report Bug</a> &nbsp; &nbsp;
