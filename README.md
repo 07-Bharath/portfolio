@@ -1,14 +1,14 @@
-# portfolio
-
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="https://BHARATH RAJ.vercel.app/" target="_blank">BHARATH RAJ.BE</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/home.png" />
 </div>
 
 <br/>
+
+
 
 <h3 align="center">
     🔹
@@ -16,7 +16,6 @@
     🔹
     <a href="https://github.com/07-Bharath">Request Feature</a>
 </h3>
-
 
 This project was built using these technologies.
 
